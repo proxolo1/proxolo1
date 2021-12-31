@@ -14,7 +14,7 @@
 ## 🛠 Skills
 Javascript, HTML, CSS, JAVA, CPP, MYSQL...
 ## 🔨Tools
-Angular, IntelliJ, VS CODE
+ANGULAR, INTELLIJ, VS CODE
 
 
 
