@@ -25,7 +25,7 @@ ANGULAR, INTELLIJ, VS CODE
 
 
 
-## Contact 
+## 📞Contact 
 ![giphy](https://user-images.githubusercontent.com/73517233/147810780-ee0051e1-7958-4485-b48f-08a34c634700.gif)
 <p align="center">
 
