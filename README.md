@@ -12,7 +12,7 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, JAVA, CPP, MYSQL...
+JAVASCRIPT, HTML, CSS, JAVA, CPP, MYSQL...
 ## 🔨Tools
 ANGULAR, INTELLIJ, VS CODE
 
