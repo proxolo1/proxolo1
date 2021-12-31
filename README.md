@@ -24,7 +24,7 @@ ANGULAR, INTELLIJ, VS CODE
 
 
 
-## Support
+## Contact 
+https://www.sololearn.com/profile/20200268
 
-For support, email fake@fake.com or join our Slack channel.
 
