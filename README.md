@@ -18,9 +18,10 @@ Angular, IntelliJ, VS CODE
 
 
 
-## Screenshots
+## 
+![giphy](https://user-images.githubusercontent.com/73517233/147810780-ee0051e1-7958-4485-b48f-08a34c634700.gif)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## Support
