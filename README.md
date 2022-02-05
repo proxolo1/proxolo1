@@ -46,5 +46,3 @@
 <a href="mailto:ajayksanthosh.15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajayksanthosh.15@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-
-
