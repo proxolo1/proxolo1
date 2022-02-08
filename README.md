@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Ajay! 👋</h1>
+<h1 align="center"> Hi, I'm Ajay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 
 
 
