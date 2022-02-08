@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Ajay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=F72EE2&size=30&duration=4000&center=true&vCenter=true&width=471&height=103&lines=Hi+i+am+Ajay++%F0%9F%91%8B;Welcome+to+my+git+profile" /></h1>
 
 
 
