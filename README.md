@@ -45,8 +45,7 @@
 
 </p>
 <div align="center">
-  <a href="https://github.com/AVS1508">
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=proxolo1&theme=buefy&show_icons=true" />
   <img height="180em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxolo1&theme=buefy&layout=compact" />
-</a>
+
   </div>
