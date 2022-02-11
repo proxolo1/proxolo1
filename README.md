@@ -32,13 +32,11 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=proxolo1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxolo1&theme=buefy&layout=compact" />
-</a>
+
 
 ## ☎️Contact 
-  ![giphy](https://user-images.githubusercontent.com/73517233/147820994-c999430d-f927-4793-8a27-f3fa43314f33.gif)
+<!--   ![giphy](https://user-images.githubusercontent.com/73517233/147820994-c999430d-f927-4793-8a27-f3fa43314f33.gif) -->
+ <img height="180em" width="300px" src="https://user-images.githubusercontent.com/73517233/147820994-c999430d-f927-4793-8a27-f3fa43314f33.gif" />
     <br>
 <p>
 <a href="https://www.linkedin.com/in/ajay-k-santhosh-8564421ba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajay%20K%20Santhosh-blue?style=flat-square&logo=linkedin"></a>
@@ -46,3 +44,9 @@
 <a href="mailto:ajayksanthosh.15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajayksanthosh.15@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
+<div align="center">
+  <a href="https://github.com/AVS1508">
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=proxolo1&theme=buefy&show_icons=true" />
+  <img height="180em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxolo1&theme=buefy&layout=compact" />
+</a>
+  </div>
