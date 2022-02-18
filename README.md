@@ -36,14 +36,12 @@
 
 ## ☎️Contact 
 <!--   ![giphy](https://user-images.githubusercontent.com/73517233/147820994-c999430d-f927-4793-8a27-f3fa43314f33.gif) -->
- <img height="180em" width="300px" src="https://user-images.githubusercontent.com/73517233/147820994-c999430d-f927-4793-8a27-f3fa43314f33.gif" />
-    <br>
-<p>
+
 <a href="https://www.linkedin.com/in/ajay-k-santhosh-8564421ba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajay%20K%20Santhosh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_ajayk._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_ajayk._-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ajayksanthosh.15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajayksanthosh.15@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
+<!--  <img align="right" height="180em" width="300px" src="https://user-images.githubusercontent.com/73517233/147820994-c999430d-f927-4793-8a27-f3fa43314f33.gif" /> -->
+<hr>
 <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=proxolo1&theme=buefy&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxolo1&theme=buefy&layout=compact" />
