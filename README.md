@@ -44,8 +44,7 @@
 <a href="mailto:ajayksanthosh.15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajayksanthosh.15@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-<div align="center">
+<p>
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=proxolo1&theme=buefy&show_icons=true" />
   <img height="180em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxolo1&theme=buefy&layout=compact" />
-
-  </div>
+  </p>
