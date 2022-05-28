@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 💻I'm a full stack developer
-- 🔭 I’m currently working on USTG
+- 🔭 I’m currently working on UST
 - 🧑‍💻 Passionate on writing code
 
 
